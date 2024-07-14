@@ -1,0 +1,93 @@
+body{
+    background: rgb(113, 113, 218);
+   font-family: Arial, Helvetica, sans-serif;
+}
+header{
+    background:rgb(6, 7, 82);
+    height: 120px;
+    width: 100%;
+    margin: 0px;
+    text-align: center;
+    color: white;
+    border-bottom: 1px dashed black;
+}
+#Contenido{
+    padding: 3px;
+    background: orange ;
+    height: 429px;
+    width: 45%;
+    margin: 0px;
+    border-bottom: 2px solid black;
+    border-left: 2px solid black;
+    border-right: 2px solid black;
+    border-top: 2px solid black;
+    float:left;
+}
+#Lista{
+    float: right;
+    background: rgb(235, 4, 4);
+    height: 100px;
+    width: 50%;
+    margin: 0px;
+    border-left: 3px solid black;
+    border-bottom: 2px solid black;
+    border-right: 2px solid black;
+    border-top: 2px solid black;
+
+    padding: 3px;
+}
+#Administrador{
+    float:right;
+    background: rgb(1, 120, 41);
+    height: 110px;
+    width: 50%;
+    margin: 0px;
+    border-left: 3px solid black;
+    border-bottom: 3px solid black;
+    border-right: 2px solid black;
+    border-top: 2px solid black;
+    padding: 3px;   
+}
+#Mensaje{
+    float:right;
+    text-align: center;
+    background: yellow;
+    height: 198px;
+    width: 30%;
+    margin: 0px;
+    border-left: 2px solid black;
+    border-bottom: 3px solid black;
+    border-right: 2px solid black;
+    border-top: 5px solid black;
+    padding: 3px;  
+
+}
+#Imagen{
+    float:right;
+    background: black;
+    height: 200px;
+    width: 19.3%;
+    border-left: 3.7px solid black;
+    border-bottom: 3px solid black;
+    border-right: 1px solid black;
+    border-top: 3px solid black;
+    padding: 3px;  
+}
+/*
+
+#Programadores{
+    float:right;
+    background: rgb(1, 217, 246);
+    height: 130px;
+    width: 20%;
+    margin: 0px;
+    border-left: 1px solid black;
+    border-bottom: 1px solid black;
+    border-right: 1px solid black;
+    border-top: 1px solid black;
+    padding: 1px;  
+}
+
+*/
+
+
